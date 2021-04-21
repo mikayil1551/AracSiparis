@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\YenidenC#\4.19.2021\AracSiparis\AracSiparis\bin\Debug\AracSiparis.exe.config
+C:\Users\User\Desktop\YenidenC#\4.19.2021\AracSiparis\AracSiparis\bin\Debug\AracSiparis.exe
+C:\Users\User\Desktop\YenidenC#\4.19.2021\AracSiparis\AracSiparis\bin\Debug\AracSiparis.pdb
+C:\Users\User\Desktop\YenidenC#\4.19.2021\AracSiparis\AracSiparis\obj\Debug\AracSiparis.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\4.19.2021\AracSiparis\AracSiparis\obj\Debug\AracSiparis.Form1.resources
+C:\Users\User\Desktop\YenidenC#\4.19.2021\AracSiparis\AracSiparis\obj\Debug\AracSiparis.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\4.19.2021\AracSiparis\AracSiparis\obj\Debug\AracSiparis.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\4.19.2021\AracSiparis\AracSiparis\obj\Debug\AracSiparis.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\4.19.2021\AracSiparis\AracSiparis\obj\Debug\AracSiparis.exe
+C:\Users\User\Desktop\YenidenC#\4.19.2021\AracSiparis\AracSiparis\obj\Debug\AracSiparis.pdb
